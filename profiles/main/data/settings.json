@@ -30,6 +30,7 @@
     "source *",
     "diff *",
     "sleep *",
+    "pwd *",
   ],
   "files.defaultLanguage": "ko",
   "editor.fontSize": 15,

@@ -1,0 +1,21 @@
+// 키 바인딩을 이 파일에 넣어서 기본값 재정의
+[
+  {
+    "key": "shift+cmd+u",
+    "command": "-workbench.action.output.toggleOutput",
+    "when": "workbench.panel.output.active",
+  },
+  {
+    "key": "shift+cmd+d",
+    "command": "-workbench.view.debug",
+    "when": "viewContainer.workbench.view.debug.enabled",
+  },
+  {
+    "key": "shift+cmd+u",
+    "command": "syncSettings.upload",
+  },
+  {
+    "key": "shift+cmd+d",
+    "command": "syncSettings.download",
+  },
+]

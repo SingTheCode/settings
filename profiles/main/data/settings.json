@@ -36,6 +36,7 @@
     "cat *",
     "python *",
     "lsof *",
+    ".venv/bin/python *",
   ],
   "files.defaultLanguage": "ko",
   "editor.fontSize": 15,

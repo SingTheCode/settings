@@ -37,7 +37,6 @@
     "python *",
     "lsof *",
     "rm *",
-    "bash scripts/verify-code-quality.sh",
   ],
   "files.defaultLanguage": "ko",
   "editor.fontSize": 15,

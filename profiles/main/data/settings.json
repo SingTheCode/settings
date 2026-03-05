@@ -21,7 +21,6 @@
     "wc *",
     "supabase *",
     "yarn *",
-    "uv *",
     "test *",
     "docker *",
     "file *",

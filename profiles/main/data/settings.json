@@ -37,6 +37,8 @@
     "python *",
     "lsof *",
     "rm *",
+    "pip install *",
+    "which uv *",
   ],
   "files.defaultLanguage": "ko",
   "editor.fontSize": 15,

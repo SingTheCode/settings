@@ -35,6 +35,7 @@
     "python *",
     "lsof *",
     "which uv *",
+    "uv run pytest *",
   ],
   "files.defaultLanguage": "ko",
   "editor.fontSize": 15,

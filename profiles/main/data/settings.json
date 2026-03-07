@@ -36,7 +36,6 @@
     "lsof *",
     "which uv *",
     "uv run pytest *",
-    "uv run python -m sp500_backtest",
   ],
   "files.defaultLanguage": "ko",
   "editor.fontSize": 15,

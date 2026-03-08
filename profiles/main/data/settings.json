@@ -90,5 +90,5 @@
   "terminal.integrated.suggest.runOnEnter": "always",
   "githubLocalActions.dockerDesktopPath": "/Applications/Docker.app",
   "kiroAgent.notifications.agent.success": true,
-  "files.autoSave": "onWindowChange",
+  "files.autoSave": "onFocusChange",
 }

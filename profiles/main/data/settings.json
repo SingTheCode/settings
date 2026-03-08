@@ -1,6 +1,6 @@
 {
   "kiroAgent.mcpApprovedEnvVars": ["POSTMAN_API_KEY"],
-  "kiroAgent.modelSelection": "claude-sonnet-4.6",
+  "kiroAgent.modelSelection": "claude-opus-4.6",
   "kiroAgent.agentAutonomy": "Autopilot",
   "kiroAgent.trustedTools": ["webFetch", "remote_web_search"],
   "kiroAgent.enableTabAutocomplete": true,
@@ -36,6 +36,7 @@
     "lsof *",
     "which uv *",
     "uv run pytest *",
+    "sed *",
   ],
   "files.defaultLanguage": "ko",
   "editor.fontSize": 15,

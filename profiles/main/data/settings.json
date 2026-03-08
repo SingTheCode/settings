@@ -1,6 +1,6 @@
 {
   "kiroAgent.mcpApprovedEnvVars": ["POSTMAN_API_KEY"],
-  "kiroAgent.modelSelection": "claude-opus-4.6",
+  "kiroAgent.modelSelection": "claude-sonnet-4.6",
   "kiroAgent.agentAutonomy": "Autopilot",
   "kiroAgent.trustedTools": ["webFetch", "remote_web_search"],
   "kiroAgent.enableTabAutocomplete": true,
@@ -90,4 +90,5 @@
   "terminal.integrated.suggest.runOnEnter": "always",
   "githubLocalActions.dockerDesktopPath": "/Applications/Docker.app",
   "kiroAgent.notifications.agent.success": true,
+  "files.autoSave": "onWindowChange",
 }

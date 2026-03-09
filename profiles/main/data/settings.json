@@ -36,6 +36,7 @@
     "uv run pytest *",
     "uv venv *",
     "uv pip install *",
+    "uv run python *",
   ],
   "files.defaultLanguage": "ko",
   "editor.fontSize": 15,
